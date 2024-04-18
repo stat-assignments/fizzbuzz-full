@@ -1,5 +1,7 @@
 ---
-title: "Homework 3: Fizzbuzz"
+title: "Homework: Fizzbuzz"
+execute:
+  error: true
 author: "Your Name"
 output: html_document
 ---
